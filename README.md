@@ -51,4 +51,4 @@ Here are some screenshots of the application in action:
 
 2. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/deshanjagoda/Libery_System.git
